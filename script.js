@@ -1,6 +1,6 @@
 
 /* 1. Start with the number 42 and set that equal to the variable `majorKey` */
-var majorKey=42;
+var majorKey = 42;
 
 
 /*2. Create conditional logic to check if `majorKey` is greater than or equal to 53
