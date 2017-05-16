@@ -31,7 +31,7 @@ keyChars.pop();
 /*6. Create a new variable. Loop **backwards** through `keyChars` and store each value into the new variable, combining each of the values of `keyChars`*/
 var backwards= '';
 for(i=keyChars.length; i>0; i--){
-  backwards +=keyChars[i-1];
+  backwards += keyChars[i-1];
 }
 
 /*7. `parseInt` both the `majorKey` and the new variable created in Step 6, ensure that both `majorKey` and the new variable are set to these new parsed values.*/
